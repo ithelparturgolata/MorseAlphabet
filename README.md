@@ -1,4 +1,4 @@
 <b>MorseAlphabet</b>
 
-Prosta aplikacja, która tłumaczy wpisany tekst na alfabet Morse'a.
-W przyszłości zamierzam dodać sygnalizację dźwiękową wpisanego tekstu.
+A simple application that translates the entered text into Morse code.<br>
+In the future I intend to add a sound signal of the entered text.
